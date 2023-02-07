@@ -2,7 +2,7 @@
 ## Basic Participant List Feature
 ##### Scenario
 
-You client wants to be able to keep track of the participant (ppt) information for their organization. The first feature is a list of participants with the corresponding ICD codes for each ppt. The client would like to see a list of all their participants and sort them based on how many codes each ppt has. They also need to see each partipant's codes (in both code and plain english) in a focus view for each person. We recommend using react-router-dom, bootstrap, and scss since that is what IntusCare uses.
+Your client wants to be able to keep track of the participant (ppt) information for their organization. The first feature is a list of participants with the corresponding ICD codes for each ppt. The client would like to see a list of all their participants and sort them based on how many codes each ppt has. They also need to see each partipant's codes (in both code and plain english) in a focus view for each person. We recommend using react-router-dom, bootstrap, and scss since that is what IntusCare uses.
 
 Areas to focus on: 
 - [ ] extensibility of the list component
